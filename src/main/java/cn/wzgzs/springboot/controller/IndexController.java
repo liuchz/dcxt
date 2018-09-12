@@ -21,7 +21,7 @@ public class IndexController {
 	@RequestMapping("/index")
 	@ResponseBody
 	public RestResult index(){
-		
+		//dd
 		return new RestResult("网站工作室");
 	}
 	
